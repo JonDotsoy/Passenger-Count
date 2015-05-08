@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Protitulo
+        psr4_prefix: Protitulo
+        src_path: app
